@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm johbeensonsteven847
 
-<!--
-**johbeensonsteven847/johbeensonsteven847** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏏 🎪 🏓 A passionate developer who loves frameworks 🏏 🎪 🏓
 
-Here are some ideas to get you started:
+## About Me
+💻 🎮 🎰 A nerd in tech communities 💻 🎮 🎰
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🛹 🎯 🏸 🎱 A coder in desktop development 🛹 🎯 🏸 🎱
+
+### Fun Facts
+🎽 🎣 🎸 🎯 Looking to contribute to tech reviews 🎽 🎣 🎸 🎯
+
+---
+🎷 🎻 🛹 🥊 ✨ Thanks for visiting my profile! 🎬 🎰 🛶 🏑 🎮
